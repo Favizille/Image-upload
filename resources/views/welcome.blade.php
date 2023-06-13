@@ -17,7 +17,6 @@
             <input type="email" placeholder="Enter Email" name="email">
             <input type="password" placeholder="Enter Password" name="password">
             <input type="file" name="image">
-
             <button type= "submit" >Submit</button>
         </form>
     </body>
